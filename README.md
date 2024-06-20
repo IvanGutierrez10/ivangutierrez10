@@ -32,10 +32,29 @@ organizational decision making at [Universidad de La Sabana](https://www.unisaba
   </a>
 </p>
 
-<br>
+<br><br>
 
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats-ivan-alejandro-gutierrez-s-projects.vercel.app/api?username=ivangutierrez10&hide=stars&theme=omni" alt="Ivan Alejandro Gutierrez Espinosa's GitHub stats" height="200px">
   <img src="https://github-readme-stats-ivan-alejandro-gutierrez-s-projects.vercel.app/api/top-langs/?username=ivangutierrez10&theme=omni&hide=HTML,CSS" alt="Top Langs" height="200px">
 </div>
+
+<br><br>
+
+# 👥 Connect with me
+<div align="center">
+  <a href="mailto:alejandroguti972@outlook.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ivan-alejandro-gutierrez-espinosa" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+

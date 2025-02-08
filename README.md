@@ -36,8 +36,8 @@ organizational decision making at [Universidad de La Sabana](https://www.unisaba
 
 # 📊 GitHub Stats:
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivangutierrez10)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats-ivan-alejandro-gutierrez-s-projects.vercel.app/api/top-langs/?username=ivangutierrez10&theme=omni&hide=HTML,CSS" alt="Top Langs" height="200px">
+  <img src="github-readme-stats-ivangutierrez10.vercel.app/api?username=ivangutierrez10&show_icons=true&hide_border=true&theme=omni&hide=stars" alt="Top Langs" height="200px">
+  <img src="github-readme-stats-ivangutierrez10.vercel.app/api/top-langs/?username=ivangutierrez10&theme=omni&hide=HTML,CSS" alt="Top Langs" height="200px">
 </div>
 
 <br><br>

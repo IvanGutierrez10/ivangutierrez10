@@ -10,8 +10,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :handbag: 2 years of experience in data treatment and creation of data visualizations for 
 organizational decision making at [Universidad de La Sabana](https://www.unisabana.edu.co).
-- :student: I’m currently learning `Software Architecture` and `Machine Learning`.
-- :brain: I stand out for my `strategic and analytical thinking`, `assertive communication` and `leadership`
+- :student: I’m currently learning `Machine Learning` and `Deep Learning`.
+- :brain: I stand out for my `strategic and analytical thinking`, `assertive communication` and `Complex problem solving`
 
 <br>
 

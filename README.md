@@ -19,7 +19,7 @@ organizational decision making at [Universidad de La Sabana](https://www.unisaba
 ### 📚 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,sql,py&perline=14" />
   </a>
 </p>
 

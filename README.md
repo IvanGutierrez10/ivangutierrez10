@@ -10,8 +10,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :handbag: 3 years of experience as data analyst & project lead in innovation data projects for 
 organizational decision making at [Universidad de La Sabana](https://www.unisabana.edu.co).
-- :anatomical_heart: Currently working at Opella Healthcare in my internship as a IT Project Manager.
-- :brain: I stand out for my `strategic and analytical thinking`, `assertive communication` and `Complex problem solving`
+- :anatomical_heart: Currently working at Opella Healthcare (Sanofi CHC) in my internship as a IT Project Manager.
+- :brain: I stand out for my `leadership`, `assertive communication` and `Complex problem solving`
 
 <br>
 

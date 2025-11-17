@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan Gutierrez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CF0CAF&center=true&random=false&width=800&height=60&lines=Informatics+Engineering+Student;Data+Scientist+%7C+Data+Analyst+%7C+Project+Management+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CF0CAF&center=true&random=false&width=800&height=60&lines=Informatics+Engineering+Student;Business+Analyst+%7C+Business+Intelligence+Analyst+%7C+IT+Project+Manager+" alt="Typing SVG" /></a>
 </p>
 
 # 🙋‍♂️ About Me:
@@ -10,7 +10,6 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :handbag: 2 years of experience in data treatment and creation of data visualizations for 
 organizational decision making at [Universidad de La Sabana](https://www.unisabana.edu.co).
-- :student: I’m currently learning `Machine Learning` and `Deep Learning`.
 - :brain: I stand out for my `strategic and analytical thinking`, `assertive communication` and `Complex problem solving`
 
 <br>
@@ -31,14 +30,6 @@ organizational decision making at [Universidad de La Sabana](https://www.unisaba
     <img src="https://skillicons.dev/icons?i=docker,git,github,gradle,idea,kubernetes,mysql,planetscale,postman,pycharm,rabbitmq,spring,sklearn,vscode&perline=14" />
   </a>
 </p>
-
-<br><br>
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats-ivan-alejandro-gutierrez-s-projects.vercel.app/api?username=ivangutierrez10&show_icons=true&hide_border=true&theme=omni&hide=stars" alt="Top Langs" height="200px">
-  <img src="https://github-readme-stats-ivan-alejandro-gutierrez-s-projects.vercel.app/api/top-langs/?username=ivangutierrez10&theme=omni&hide=HTML,CSS" alt="Top Langs" height="200px">
-</div>
 
 <br><br>
 
